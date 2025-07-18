@@ -1,16 +1,50 @@
-# unsad
+UnSad - Flutter Meme App
 
-A new Flutter project.
+Welcome to UnSad, a lightweight Flutter app designed to lift your mood by showing you random memes whenever you need a smile.
 
-## Getting Started
+📱 What UnSad Can Do
 
-This project is a starting point for a Flutter application.
+Loads and displays random memes from a meme API.
 
-A few resources to get you started if this is your first Flutter project:
+Lets you save your favorite memes locally.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Easy-to-use and clean interface.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Works on Android (iOS support can be added).
+
+🚀 How to Get Started
+
+Clone this repository to your local machine.
+
+Open the project folder in your preferred editor.
+
+Run flutter pub get to fetch all dependencies.
+
+Launch the app using flutter run and enjoy.
+
+📸 App Preview
+
+Here’s a quick look at UnSad in action:
+
+![UnSad App Screenshot](screenshot/UnSad_Screenshot.png)
+
+📚 Helpful Resources
+
+Flutter Documentation
+
+Dart Guides
+
+Pub.dev Packages
+
+🤝 Want to Contribute?
+
+I’d love your input! Feel free to open an issue to suggest improvements or submit a pull request.
+
+🪐 License
+
+This project is licensed under the MIT License.
+
+🙌 About the Developer
+
+Hi, I’m Muhammad Saqib. If UnSad made you smile, consider giving this repo a ⭐ to support the project.
+
