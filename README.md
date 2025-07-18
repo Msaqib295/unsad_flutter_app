@@ -32,7 +32,7 @@ flutter run
 
 Here’s a quick look at UnSad in action:
 
-
+![UnSad App Screenshot](screenshot/UnSad_Screenshot.png)
 
 🛠 Technologies Used
 
